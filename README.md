@@ -1,5 +1,8 @@
 # emtv_porfolio
 
+Durnig the Android Developer Internship, I have worked in 3 diferent project. 
+
+
 ## Kishan Hub
 
 <img src="https://img.shields.io/badge/AdMob-FF0000?logo=googleadmob&logoColor=white" />
@@ -21,3 +24,9 @@ Things
     <td><img src="https://img.shields.io/badge/Firebase%20Messaging-FFCA28?logo=firebase&logoColor=black" /></td>
   </tr>
 </table>
+
+
+## Live News
+
+
+## Fish Worrior
