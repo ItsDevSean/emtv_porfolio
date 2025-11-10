@@ -15,15 +15,41 @@ The application has been published on the Google Play Store for several months, 
 ## Technical Table Information
 <table>
   <tr>
-    <th>Used cloud methods:</th>
     <td><img src="https://img.shields.io/badge/AdMob-FF0000?logo=googleadmob&logoColor=white" /></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><img src="https://img.shields.io/badge/Play%20Console-4285F4?logo=googleplay&logoColor=white" /></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?logo=firebase&logoColor=black" /></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><img src="https://img.shields.io/badge/Firebase%20Database-FFCA28?logo=firebase&logoColor=black" /></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><img src="https://img.shields.io/badge/Firebase%20Analytics-FFCA28?logo=firebase&logoColor=black" /></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><img src="https://img.shields.io/badge/Firebase%20Remote%20Config-FFCA28?logo=firebase&logoColor=black" /></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><img src="https://img.shields.io/badge/Firebase%20Crashlytics-FFCA28?logo=firebase&logoColor=black" /></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><img src="https://img.shields.io/badge/Firebase%20Events-FFCA28?logo=firebase&logoColor=black" /></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><img src="https://img.shields.io/badge/Firebase%20Messaging-FFCA28?logo=firebase&logoColor=black" /></td>
+    <td></td>
   </tr>
 </table>
+
+
