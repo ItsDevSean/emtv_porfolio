@@ -16,39 +16,44 @@ The application has been published on the Google Play Store for several months, 
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/AdMob-FF0000?logo=googleadmob&logoColor=white" /></td>
-    <td></td>
+    <td>Google Ads for monetization of the app</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Play%20Console-4285F4?logo=googleplay&logoColor=white" /></td>
-    <td></td>
+    <td>Managing updates and errors of the Play Store</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?logo=firebase&logoColor=black" /></td>
-    <td></td>
+    <td>User experience for saving videos and personalizing data</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Firebase%20Database-FFCA28?logo=firebase&logoColor=black" /></td>
-    <td></td>
+    <td>DB for saving real-time data</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Firebase%20Analytics-FFCA28?logo=firebase&logoColor=black" /></td>
-    <td></td>
+    <td>To monitor a basic experience of the users</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Firebase%20Remote%20Config-FFCA28?logo=firebase&logoColor=black" /></td>
-    <td></td>
+    <td>To save basic configuration, that can be changed without updating the app in the Play Store. Like Retrofit URL, Ads ID, some presentation labels, and more</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Firebase%20Crashlytics-FFCA28?logo=firebase&logoColor=black" /></td>
-    <td></td>
+    <td>To debug the crashes of the users</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Firebase%20Events-FFCA28?logo=firebase&logoColor=black" /></td>
-    <td></td>
+    <td>To create a deep data model for understanding the user flow</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Firebase%20Messaging-FFCA28?logo=firebase&logoColor=black" /></td>
-    <td></td>
+    <td>For sending notification messages for new updates or changes of content</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Honeygain-FFD500?style=for-the-badge&logo=honeygain&logoColor=black" />
+    <img src="https://img.shields.io/badge/MoneData-0099FF?style=for-the-badge&logoColor=white" /></td>
+    <td>SDKs that share anonymous user data with third-party partners to monetize the app without an intrusive user experience</td>
   </tr>
 </table>
 
