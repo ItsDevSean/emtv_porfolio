@@ -4,8 +4,7 @@ Durnig the Android Developer Internship, I have worked in 3 diferent project.
 
 
 ## Kishan Hub
-
-More info in [View KishanHub Portfolio](kishanHub.md)
+Android Mobile and TV app for an Agricultural VOD for ICL india. More info in [View KishanHub Portfolio](kishanHub.md)
 
 
 
